@@ -1,0 +1,2 @@
+# regresi-nmultiple
+métodos
